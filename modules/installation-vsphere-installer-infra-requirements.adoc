@@ -55,6 +55,7 @@ An additional role is required if the installation program is to create a vSpher
 `Sessions.ValidateSession`
 `StorageProfile.Update`
 `StorageProfile.View`
+`Profile-Driven Storage.Profile-driven.StorageView`
 
 |vSphere vCenter Cluster
 |Always
